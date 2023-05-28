@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme -->
+
+    <!-- Style for the activity without action bar -->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize the style attributes as per your requirements -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
